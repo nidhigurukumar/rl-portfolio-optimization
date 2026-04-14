@@ -1,5 +1,5 @@
 
-# RL Portfolio Project (CS583) - Enhanced
+# RL Portfolio Project (CS583): ACADEMIC PROJECT
 
 This project uses **Deep Reinforcement Learning** (DQN, A2C, PPO)
 for macro index portfolio optimization on your 34-year stock dataset.
