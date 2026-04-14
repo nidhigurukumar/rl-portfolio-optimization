@@ -1,5 +1,5 @@
 
-# REINFORCEMENT LEARNING Portfolio Project: ACADEMIC PROJECT
+# QuantRL: Deep Reinforcement Learning for Financial Portfolio Management
 
 This project uses **Deep Reinforcement Learning** (DQN, A2C, PPO)
 for macro index portfolio optimization on your 34-year stock dataset.
